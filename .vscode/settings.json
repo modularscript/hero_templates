@@ -1,3 +1,27 @@
 {
-  "liveServer.settings.port": 5501
+  "liveServer.settings.port": 5501,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/.gitattributes": true,
+    "**/.idea": true,
+    "**/.phpintel": true,
+    "**/.vscode": true,
+    "**/desktop.ini": true,
+    "**/node_modules": true
+  },
+  "explorerExclude.backup": {},
+  "cSpell.words": [
+    "Andreas",
+    "Baald",
+    "Blay",
+    "Dogsledding",
+    "Duvallee",
+    "Florisch",
+    "Haus"
+  ]
 }
